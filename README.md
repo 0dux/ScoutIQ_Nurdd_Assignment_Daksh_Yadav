@@ -64,7 +64,7 @@ This project was built using **Antigravity**, an agentic AI coding assistant fro
 ## 🚧 Retrospective
 
 ### What's Incomplete & Why?
-- **Advanced Sort Logic**: While the app has sport-based filtering, I didn't implement sorting by score (e.g., "Sort by Speed"). Given the 24-hour limit, I chose to focus on the **Shortlist Persistence** and **Search Debouncing** as they were higher-weighted rubrics.
+- **Advanced Sort Logic**: While the app has sport-based filtering, I didn't implement sorting by score (e.g., "Sort by Speed"). Given the limit, I chose to focus on the **Shortlist Persistence** and **Search Debouncing** as they were higher-weighted rubrics.
 - **Empty State Custom Animations**: I used a clean, high-contrast text fallback for empty states. With more time, I would have used Lottie or custom SVG animations to make the "No Athletes Found" screen more engaging.
 
 ### One thing I'd do differently with more time?
@@ -72,5 +72,5 @@ I would implement **Shared Element Transitions** (using `react-native-reanimated
 
 ---
 
-**Submitted by**: [Your Full Name]
+**Submitted by**: Daksh Yadav
 **Project**: ScoutIQ — Athlete Discovery
