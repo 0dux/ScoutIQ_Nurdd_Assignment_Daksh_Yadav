@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "react_native_tutorial",
+    "name": "ScoutIQ_Daksh_Yadav",
     "slug": "react_native_tutorial",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -20,7 +20,8 @@
         "monochromeImage": "./assets/images/android-icon-monochrome.png"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.dakshyadav.scoutiq"
     },
     "web": {
       "output": "static",
@@ -44,6 +45,13 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
-    }
+    },
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "63c07599-c9a3-4b09-bbc5-5f0dce681058"
+      }
+    },
+    "owner": "0dux"
   }
 }
